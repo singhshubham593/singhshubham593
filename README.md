@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Friends</h1>
+ <h1 align="center">Hi 👋 Friends</h1>
 <h3 align="center">I'm Shubham Singh, a 2nd Year undergraduate pursuing B.Tech in Information Technology from MCKV Institute Of Engineering, Howrah.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhshubham593&label=Profile%20views&color=0e75b6&style=flat" alt="singhshubham593" /> </p>

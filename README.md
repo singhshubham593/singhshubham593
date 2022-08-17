@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhshubham593" alt="singhshubham593" /></a> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **rajputshubhamsingh593@gmail.com**
 

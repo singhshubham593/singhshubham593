@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhshubham593" alt="singhshubham593" /></a> </p>
 
-- 🔭 I’m currently working on [EduStudy](https://github.com/singhshubham593/eduHelp)
+- 🔭 I’m currently working on [EduHelp](https://github.com/singhshubham593/eduHelp)
 
 - 🌱 I’m currently learning **React js**
 
-- 👯 I’m looking to collaborate on [EduStudy](https://github.com/singhshubham593/eduHelp)
+- 👯 I’m looking to collaborate on [EduHelp](https://github.com/singhshubham593/eduHelp)
 
 - 🤝 I’m looking for help with [Advanture](https://github.com/singhshubham593/adventure)
 
